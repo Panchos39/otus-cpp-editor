@@ -1,5 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
-project(otus_cpp_editor LANGUAGES CXX)
+set(PATCH_VERSION "1" CACHE INTERNAL "Patch version")
+set(PROJECT_VESRION 0.0.${PATCH_VERSION})
+
+project(otus_editor VERSION ${PROJECT_VESRION})
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_FLAGS  " ${CMAKE_CXX_FLAGS_INIT} -std=c++17 -fPIC")
