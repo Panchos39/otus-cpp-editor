@@ -27,7 +27,7 @@ jobs:
 
       # Build the project
       - run: sudo apt-get update && sudo apt-get install -y libgtest-dev
-      - run: cmake .
+      - run: cmake . -DPATCH_VERSION=${{ github.run_number }}
       - run: cmake --build .
 
       # Create package and upload it
