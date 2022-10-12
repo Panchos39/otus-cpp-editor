@@ -1,0 +1,196 @@
+@startuml
+enum EColor {
+  ColorBlack
+  ColorWhite
+  ColorBrown
+  ColorGray
+  ColorRed
+  ColorBlue
+  ColorGreen
+  ColorYellow
+  ColorOrange
+  ColorPurple
+}
+
+interface       IPrimitive {
+  +{abstract} void Draw(ICanvas canvas)
+  +{abstract} void SetColor(CColor color)
+
+}
+abstract class APrimitive {
+  -{field} Color m_Color
+  +{method} void SetColor(CColor color)
+
+
+}
+
+class CPoint {
+  -{field} int m_X
+  -{field} int m_Y
+  +{method} CPoint(int x, int y, CColor color)
+  +{method} ~CPoint()
+  +{method} void Draw(ICanvas canvas)
+}
+
+class CLine {
+  
+  +{method} CLine(CPoint start, CPoint end)
+  +{method} CLine(const CLine& line)
+  +{method} ~CLine()
+  +{method} void Draw(ICanvas canvas)
+   
+  -{field} CPoint m_StartPoint
+  -{field} CPoint m_EndPoint
+}
+
+class CCircle {
+  -{field} CPoint m_CenterPoint
+  -{field} int m_Radius
+
+  +{method} CCircle(CPoint center_point, int radius)
+  +{method} CCircle(const CCircle& circle)
+  +{method} ~CCircle()
+  +{method} void Draw(shared_ptr<ICanvas> canvas)
+}
+
+class CRectangle {
+  -{field} CPoint m_Pos
+  -{field} int m_Width
+  -{field} int m_Height
+
+  +{method} CRectangle(CPoint pos, int w, int h)
+  +{method} CRectangle(const CRectangle& rectangle)
+  +{method} ~CRectangle()
+  +{method} void Draw(shared_ptr<ICanvas> canvas)
+}
+
+class CButton {
+  -{field} std::string m_Caption
+
+  +{method} CButton(int x, int y, int w, int h, string cap)
+  +{method} ~CButton()
+  +{method} void Draw(ICanvas canvas)
+  +{method} void SetOnClick(FunOnClick func)
+  +{method} void OnClick()
+}
+
+interface ICanvas {
+  +{method} ~ICanvas()
+  +{method} void Draw(int x, int y, EColor color)
+   
+}
+
+class CPseudoCanvas {
+  +{method} CPseudoCanvas()
+  +{method} ~CPseudoCanvas()
+  +{method} Draw(int x, int y, EColor color)
+}
+
+class CGraphCanvas {
+  +{method} CGraphCanvas()
+  +{method} ~CGraphCanvas()
+  +{method} Draw(int x, int y, EColor color)
+}
+
+class CEditorModel {
+  -{field} vector<IPrimitive> m_Primitives
+  -{field} string m_Path
+  +{method} void Create()
+  +{method} void Open(string path)
+  +{method} void AddPrimitive(shared_ptr<IPrimitive> object)
+  +{method} void DeletePrimitive(shared_ptr<IPrimitive> object)
+  +{method} void Clear()
+
+}
+
+class CEditorController {
+  -{field} shared_ptr<CEditorModel> m_pModel;
+  -{field} shared_ptr<IPrimitive> m_curPrimitive;
+  -{field} CColor m_CurColor;
+  +{method} void Open(const string& path)
+  +{method} void Clear()
+  +{method} void Save()
+  +{method} void Run()
+  +{method} void Draw()
+  +{method} void SetColor(CColor color);
+  +{method} void CreatePrimitive(std::unique_ptr<IPrimitive> a_pPrimitive);
+  +{method} void DeletePrimitive();
+}
+
+class CEditorView {
+  -{field} shared_ptr<CEditorController> m_pController 
+  -{field} shared_ptr<ICanvas> m_pCanvas;
+  
+  -{field} unique_ptr<CButton> m_pBtnOpen
+  -{field} unique_ptr<CButton> m_pBtnSave
+  -{field} unique_ptr<CButton> m_pBtnClear
+
+  -{field} unique_ptr<CButton> m_pBtnColor
+
+  -{field} unique_ptr<CButton> m_pBtnCreatePoint
+  -{field} unique_ptr<CButton> m_pBtnCreateLine
+  -{field} unique_ptr<CButton> m_pBtnCreateCircle
+  -{field} unique_ptr<CButton> m_pBtnDelete
+  +{method} void update()
+  +{method} void OnClickBtnOpen()
+  +{method} void OnClickBtnSave()
+  +{method} void OnClickBtnClear()
+  +{method} void OnClickBtnColor()
+  +{method} void OnClickBtnCreatePoint()
+  +{method} void OnClickBtnCreateLine()
+  +{method} void OnClickBtnCreateCircle()
+  +{method} void OnClickBtnDelete()
+  +{method} void OnClickPrimitive()
+}
+
+interface IObserver {
+  {abstract} void update()=0
+}
+
+
+
+interface IObservable {
+  +{abstract} void addObserver(shared_ptr<IObserver> observer)
+  +{abstract} void notifyUpdate()
+}
+
+class CObservable {
+  -{field} vector<shared_ptr<Observer>> m_Observers
+  +{method} void addObserver(shared_ptr<IObserver> observer)
+  +{method} void notifyUpdate()
+}
+
+
+IObservable <|-- CObservable
+
+IObserver <.. IObservable
+CObservable <|-- CEditorModel
+IObserver <|-- CEditorView
+
+CEditorModel <.. CEditorController
+CEditorController <.. CEditorView
+
+IPrimitive <|-- APrimitive
+IPrimitive <.. CEditorController   
+EColor <.. IPrimitive
+EColor <.. APrimitive
+EColor <.. ICanvas
+ICanvas <.. IPrimitive
+
+ICanvas <|-- CPseudoCanvas
+ICanvas <|-- CGraphCanvas
+CPseudoCanvas <.. CEditorView
+CButton <.. CEditorView
+APrimitive <|-- CPoint
+APrimitive <|-- CLine
+APrimitive <|-- CCircle
+APrimitive <|-- CButton
+
+CPoint <.. CLine
+CPoint <.. CCircle
+CPoint <.. CRectangle
+CPoint <.. CButton
+
+CLine <.. CRectangle
+CRectangle <|-- CButton
+@enduml
