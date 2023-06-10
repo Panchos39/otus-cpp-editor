@@ -1,0 +1,17 @@
+<map id="include/primitives/point.h" name="include/primitives/point.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="103,5,226,46"/>
+<area shape="rect" id="Node000002" href="$primitive_8h.html" title="Заголовочный файл, содержащий декларацию клаccа APrimitive, Абстрактного класса для геометрических пр..." alt="" coords="86,94,166,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,48,140,81,136,79,152,45"/>
+<area shape="rect" id="Node000005" href="$icanvas_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="147,241,270,267"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="171,46,180,93,206,226,201,227,175,95,166,47"/>
+<area shape="rect" id="Node000003" href="$iprimitive_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса IPrimitve, содержащего методы,..." alt="" coords="77,168,161,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,120,124,153,119,152,122,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,241,73,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,196,65,233,61,229,104,192"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="136,192,184,230,181,234,132,196"/>
+<area shape="rect" id="Node000006" href="$color_8h.html" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="102,315,216,341"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="123,193,138,266,150,300,145,302,132,268,118,194"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="202,269,178,304,173,301,198,266"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="125,389,193,414"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="162,341,162,374,156,374,156,341"/>
+</map>

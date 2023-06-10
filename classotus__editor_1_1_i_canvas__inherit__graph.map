@@ -1,0 +1,7 @@
+<map id="otus_editor::ICanvas" name="otus_editor::ICanvas">
+<area shape="rect" id="Node000001" title="Интерфейс для объектов canvas." alt="" coords="129,5,269,31"/>
+<area shape="rect" id="Node000002" href="$classotus__editor_1_1_c_graph_canvas.html" title="Класс для графического отображения примитивов (заглушка). Унаследован от интерфейса ICanvas." alt="" coords="5,79,185,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,42,114,81,111,76,168,37"/>
+<area shape="rect" id="Node000003" href="$classotus__editor_1_1_c_pseudo_canvas.html" title="Класс для консольного отображения примитивов (заглушка). Унаследован от интерфейса ICanvas." alt="" coords="209,79,397,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,37,287,76,284,81,227,42"/>
+</map>

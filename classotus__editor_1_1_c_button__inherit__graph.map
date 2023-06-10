@@ -1,0 +1,9 @@
+<map id="otus_editor::CButton" name="otus_editor::CButton">
+<area shape="rect" id="Node000001" title="Класс для отображения кнопки в документе Унаследован от СRectangle, как объект прямоугольной формы" alt="" coords="15,226,154,252"/>
+<area shape="rect" id="Node000002" href="$classotus__editor_1_1_c_rectangle.html" title="Класс для отображения прямоугольника в документе Унаследован от APrimitive, используя методы родителя" alt="" coords="5,153,164,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,193,87,226,82,226,82,193"/>
+<area shape="rect" id="Node000003" href="$classotus__editor_1_1_a_primitive.html" title="Абстрактный класс для отображения геометрических примитивов в документе Унаследован от интерфейса IPr..." alt="" coords="9,79,160,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,119,87,152,82,152,82,119"/>
+<area shape="rect" id="Node000004" href="$classotus__editor_1_1_i_primitive.html" title="Интерфейс для геометрических объектов в документе" alt="" coords="11,5,158,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,46,87,79,82,79,82,46"/>
+</map>

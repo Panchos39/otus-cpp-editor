@@ -1,0 +1,5 @@
+<map id="include/mvc/controller.h" name="include/mvc/controller.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию класса CEditorController, как одна из составляющих паттерна ..." alt="" coords="5,5,164,31"/>
+<area shape="rect" id="Node000002" href="$view_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorView, как одна из составляющих паттерна MVC." alt="" coords="18,79,151,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,46,87,79,82,79,82,46"/>
+</map>

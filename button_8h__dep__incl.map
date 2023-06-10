@@ -1,0 +1,5 @@
+<map id="include/primitives/button.h" name="include/primitives/button.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию клаccf СButton, как базовой структурной единицы отображения ..." alt="" coords="10,5,133,46"/>
+<area shape="rect" id="Node000002" href="$view_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorView, как одна из составляющих паттерна MVC." alt="" coords="5,94,138,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,61,74,93,69,93,69,61"/>
+</map>

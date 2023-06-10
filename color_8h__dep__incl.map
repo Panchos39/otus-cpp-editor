@@ -1,0 +1,36 @@
+<map id="include/common/color.h" name="include/common/color.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="468,5,626,31"/>
+<area shape="rect" id="Node000002" href="$icanvas_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="403,79,570,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,44,499,80,495,77,525,41"/>
+<area shape="rect" id="Node000008" href="$iprimitive_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса IPrimitve, содержащего методы,..." alt="" coords="547,153,669,193"/>
+<area shape="poly" id="edge20_Node000001_Node000008" title=" " alt="" coords="566,42,585,78,599,117,607,152,602,153,593,118,580,80,561,45"/>
+<area shape="rect" id="Node000003" href="$graphcanvas_8h.html" title="Заголовочный файл, содержащий декларацию класса CGraphCanvas для отображения примитивов в графическом..." alt="" coords="46,160,242,186"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,111,198,162,196,157,419,106"/>
+<area shape="rect" id="Node000004" href="$pseudocanvas_8h.html" title="Заголовочный файл, содержащий декларацию класса CPseudoCanvas для отображения примитивов в консольном..." alt="" coords="266,160,473,186"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="458,115,389,162,386,157,456,111"/>
+<area shape="rect" id="Node000005" href="$model_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorModel, как одна из составляющих паттерна MVC." alt="" coords="381,249,521,275"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="492,119,492,155,487,194,475,225,461,250,456,247,470,223,482,193,487,155,486,119"/>
+<area shape="rect" id="Node000007" href="$view_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorView, как одна из составляющих паттерна MVC." alt="" coords="371,596,504,622"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="389,96,291,100,186,109,94,127,60,139,35,155,16,178,10,201,11,260,11,440,13,454,21,466,49,492,92,515,145,536,264,570,371,593,370,598,263,575,143,541,90,520,46,496,17,470,8,455,5,441,5,260,4,200,12,175,32,151,57,135,93,122,185,104,290,95,388,91"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="519,111,580,150,577,155,516,115"/>
+<area shape="rect" id="Node000010" href="$point_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="646,330,768,371"/>
+<area shape="poly" id="edge19_Node000002_Node000010" title=" " alt="" coords="586,105,637,123,683,151,713,179,730,208,737,242,733,283,718,330,713,329,728,281,732,242,726,210,709,182,680,155,634,128,584,110"/>
+<area shape="rect" id="Node000006" href="$controller_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorController, как одна из составляющих паттерна ..." alt="" coords="372,338,530,363"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="453,289,453,337,448,337,448,289"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="436,377,424,397,416,419,408,455,407,483,416,547,424,573,433,595,429,597,419,575,411,549,401,483,403,454,411,418,420,395,431,374"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="561,203,474,251,471,246,558,199"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="592,208,567,245,535,284,502,315,470,339,467,335,498,311,532,280,562,242,587,205"/>
+<area shape="rect" id="Node000009" href="$primitive_8h.html" title="Заголовочный файл, содержащий декларацию клаccа APrimitive, Абстрактного класса для геометрических пр..." alt="" coords="596,241,719,282"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="629,205,649,240,644,242,624,208"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="678,294,698,328,693,331,673,296"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="783,372,819,388,847,408,857,420,863,433,862,446,856,461,821,500,780,531,734,556,686,575,636,589,588,599,505,609,504,603,588,594,635,584,684,570,732,551,777,527,818,496,851,458,857,445,857,434,853,422,844,412,816,393,781,377"/>
+<area shape="rect" id="Node000011" href="$circle_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CCircle, как одного из потенциальных,..." alt="" coords="572,419,695,459"/>
+<area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="683,384,652,420,648,416,679,380"/>
+<area shape="rect" id="Node000012" href="$line_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="719,419,841,459"/>
+<area shape="poly" id="edge15_Node000010_Node000012" title=" " alt="" coords="735,380,766,416,762,420,731,384"/>
+<area shape="rect" id="Node000013" href="$rectangle_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CRectangle, как одного из потенциальных,..." alt="" coords="426,419,548,459"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="644,379,538,421,536,416,642,374"/>
+<area shape="rect" id="Node000014" href="$button_8h.html" title="Заголовочный файл, содержащий декларацию клаccf СButton, как базовой структурной единицы отображения ..." alt="" coords="426,507,548,548"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="489,474,489,507,484,507,484,474"/>
+<area shape="poly" id="edge18_Node000014_Node000007" title=" " alt="" coords="469,562,447,597,443,594,465,559"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="include/canvas/pseudocanvas.h" name="include/canvas/pseudocanvas.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию класса CPseudoCanvas для отображения примитивов в консольном..." alt="" coords="5,5,212,31"/>
+<area shape="rect" id="Node000002" href="$icanvas_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="47,79,170,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,31,111,64,106,64,106,31"/>
+<area shape="rect" id="Node000003" href="$color_8h.html" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="52,153,165,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,105,111,138,106,138,106,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="74,226,143,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,179,111,211,106,211,106,179"/>
+</map>

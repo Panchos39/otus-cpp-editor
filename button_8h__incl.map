@@ -1,0 +1,23 @@
+<map id="include/primitives/button.h" name="include/primitives/button.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию клаccf СButton, как базовой структурной единицы отображения ..." alt="" coords="50,5,172,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="20,94,98,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,77,83,73,80,96,45"/>
+<area shape="rect" id="Node000003" href="$rectangle_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CRectangle, как одного из потенциальных,..." alt="" coords="122,94,207,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,45,150,80,146,83,122,48"/>
+<area shape="rect" id="Node000004" href="$point_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="105,168,224,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="167,120,167,153,162,153,162,120"/>
+<area shape="rect" id="Node000005" href="$primitive_8h.html" title="Заголовочный файл, содержащий декларацию клаccа APrimitive, Абстрактного класса для геометрических пр..." alt="" coords="86,241,166,267"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="160,195,141,229,137,227,156,192"/>
+<area shape="rect" id="Node000008" href="$icanvas_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="147,389,270,414"/>
+<area shape="poly" id="edge11_Node000004_Node000008" title=" " alt="" coords="170,193,180,241,206,373,201,374,175,242,164,194"/>
+<area shape="rect" id="Node000006" href="$iprimitive_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса IPrimitve, содержащего методы,..." alt="" coords="77,315,161,341"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="127,267,124,300,119,300,122,267"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,389,73,414"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="107,343,65,381,61,377,104,339"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="136,339,184,377,181,382,132,343"/>
+<area shape="rect" id="Node000009" href="$color_8h.html" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="102,462,216,488"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="123,340,138,414,150,448,145,449,132,415,118,341"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="202,416,178,452,173,448,198,413"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="125,536,193,562"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="162,488,162,521,156,521,156,488"/>
+</map>

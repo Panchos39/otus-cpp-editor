@@ -1,0 +1,9 @@
+<map id="include/canvas/graphcanvas.h" name="include/canvas/graphcanvas.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию класса CGraphCanvas для отображения примитивов в графическом..." alt="" coords="5,5,202,31"/>
+<area shape="rect" id="Node000002" href="$icanvas_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="65,79,142,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,31,106,64,101,64,101,31"/>
+<area shape="rect" id="Node000003" href="$color_8h.html" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="47,153,160,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,105,106,138,101,138,101,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="69,226,138,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,179,106,211,101,211,101,179"/>
+</map>

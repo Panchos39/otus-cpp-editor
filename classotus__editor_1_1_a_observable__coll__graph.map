@@ -1,0 +1,5 @@
+<map id="otus_editor::AObservable" name="otus_editor::AObservable">
+<area shape="rect" id="Node000001" title="абстрактный класс для наблюдаемых объектов, оповещающих все наблюдателей об обновлении" alt="" coords="5,79,172,105"/>
+<area shape="rect" id="Node000002" href="$classotus__editor_1_1_i_observable.html" title="интерфейс для наблюдаемых объектов, оповещающих все наблюдателей об обновлении" alt="" coords="8,5,169,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,46,91,79,86,79,86,46"/>
+</map>

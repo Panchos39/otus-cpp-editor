@@ -1,0 +1,14 @@
+<map id="include/primitives/point.h" name="include/primitives/point.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="133,5,255,46"/>
+<area shape="rect" id="Node000002" href="$view_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorView, как одна из составляющих паттерна MVC." alt="" coords="5,271,138,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,46,80,65,63,79,50,95,40,118,35,142,39,192,53,237,68,270,63,272,48,239,34,193,30,141,34,116,45,93,60,75,77,61,118,41"/>
+<area shape="rect" id="Node000003" href="$circle_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CCircle, как одного из потенциальных,..." alt="" coords="60,94,182,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,59,139,95,135,92,166,56"/>
+<area shape="rect" id="Node000004" href="$line_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="206,94,329,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,56,253,92,249,95,218,59"/>
+<area shape="rect" id="Node000005" href="$rectangle_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CRectangle, как одного из потенциальных,..." alt="" coords="353,94,475,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="259,49,365,91,363,96,257,54"/>
+<area shape="rect" id="Node000006" href="$button_8h.html" title="Заголовочный файл, содержащий декларацию клаccf СButton, как базовой структурной единицы отображения ..." alt="" coords="206,183,329,223"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="370,145,302,185,299,180,367,140"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="206,232,103,273,101,268,204,227"/>
+</map>

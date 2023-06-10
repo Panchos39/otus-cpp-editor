@@ -1,0 +1,7 @@
+<map id="include/canvas/icanvas.h" name="include/canvas/icanvas.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="5,5,173,31"/>
+<area shape="rect" id="Node000002" href="$color_8h.html" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="32,79,146,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,31,92,64,86,64,86,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="55,153,123,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,105,92,138,86,138,86,105"/>
+</map>

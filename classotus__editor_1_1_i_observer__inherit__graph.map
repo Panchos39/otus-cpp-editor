@@ -1,0 +1,7 @@
+<map id="otus_editor::IObserver" name="otus_editor::IObserver">
+<area shape="rect" id="Node000001" title="Класс для уведомлений об изменениях в классе" alt="" coords="12,94,161,120"/>
+<area shape="rect" id="Node000003" href="$classotus__editor_1_1_c_editor_view.html" title="Класс для обеспечения отображения редактора (MVC). Унаследован от IObserver, значит является объектом..." alt="" coords="5,168,168,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,134,89,167,84,167,84,134"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="6,5,167,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,61,89,93,84,93,84,61"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="include/primitives/iprimitive.h" name="include/primitives/iprimitive.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию интерфейса IPrimitve, содержащего методы,..." alt="" coords="97,5,219,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,73,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,49,71,88,68,83,127,44"/>
+<area shape="rect" id="Node000003" href="$icanvas_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="97,94,219,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,46,160,79,155,79,155,46"/>
+<area shape="rect" id="Node000004" href="$color_8h.html" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="150,168,264,193"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="191,44,215,65,233,93,237,109,236,126,225,156,220,154,231,125,232,110,229,95,211,69,187,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="168,118,193,154,188,157,164,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="173,241,241,267"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="210,194,210,226,204,226,204,194"/>
+</map>

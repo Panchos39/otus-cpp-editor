@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classotus__editor_1_1_i_primitive.html" title="Интерфейс для геометрических объектов в документе" alt="" coords="5,80,152,106"/>
+<area shape="rect" id="Node000001" href="$classotus__editor_1_1_a_primitive.html" title="Абстрактный класс для отображения геометрических примитивов в документе Унаследован от интерфейса IPr..." alt="" coords="200,80,351,106"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="167,90,199,90,199,96,167,96"/>
+<area shape="rect" id="Node000002" href="$classotus__editor_1_1_c_circle.html" title="Класс для отображения круга в документе Унаследован от APrimitive, используя методы родителя" alt="" coords="412,5,545,31"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="318,71,398,40,430,29,432,34,400,45,320,76"/>
+<area shape="rect" id="Node000003" href="$classotus__editor_1_1_c_line.html" title="Класс для отображения линии в документе Унаследован от APrimitive, используя методы родителя" alt="" coords="416,55,541,80"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="365,79,415,73,416,78,366,84"/>
+<area shape="rect" id="Node000004" href="$classotus__editor_1_1_c_point.html" title="Класс для отображения точки в документе Унаследован от APrimitive, используя методы родителя" alt="" coords="413,104,543,130"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="366,101,413,107,412,112,365,106"/>
+<area shape="rect" id="Node000005" href="$classotus__editor_1_1_c_rectangle.html" title="Класс для отображения прямоугольника в документе Унаследован от APrimitive, используя методы родителя" alt="" coords="399,153,557,179"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="321,109,400,140,432,150,430,155,398,145,319,114"/>
+<area shape="rect" id="Node000006" href="$classotus__editor_1_1_c_button.html" title="Класс для отображения кнопки в документе Унаследован от СRectangle, как объект прямоугольной формы" alt="" coords="605,153,744,179"/>
+<area shape="poly" id="edge10_Node000005_Node000006" title=" " alt="" coords="572,164,605,164,605,169,572,169"/>
+</map>

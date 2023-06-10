@@ -1,0 +1,19 @@
+<map id="include/primitives/line.h" name="include/primitives/line.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="103,5,226,46"/>
+<area shape="rect" id="Node000002" href="$point_8h.html" title="Заголовочный файл, содержащий декларацию клаccа CLine, как одного из потенциальных,..." alt="" coords="105,94,224,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,46,167,79,162,79,162,46"/>
+<area shape="rect" id="Node000003" href="$primitive_8h.html" title="Заголовочный файл, содержащий декларацию клаccа APrimitive, Абстрактного класса для геометрических пр..." alt="" coords="86,168,166,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="160,121,141,156,137,153,156,119"/>
+<area shape="rect" id="Node000006" href="$icanvas_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса ICanvas для отображения примитивов в разных видах..." alt="" coords="147,315,270,341"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="170,119,180,167,206,300,201,301,175,168,164,121"/>
+<area shape="rect" id="Node000004" href="$iprimitive_8h.html" title="Заголовочный файл, содержащий декларацию интерфейса IPrimitve, содержащего методы,..." alt="" coords="77,241,161,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,194,124,227,119,226,122,193"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,315,73,341"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,270,65,307,61,303,104,266"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="136,265,184,304,181,308,132,270"/>
+<area shape="rect" id="Node000007" href="$color_8h.html" title="Заголовочный файл, содержащий перечисление EColor для установления цветов примитивов." alt="" coords="102,389,216,414"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="123,267,138,340,150,374,145,376,132,341,118,268"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="202,342,178,378,173,375,198,339"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="125,462,193,488"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="162,415,162,447,156,447,156,415"/>
+</map>

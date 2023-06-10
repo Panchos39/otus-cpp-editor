@@ -1,0 +1,11 @@
+<map id="include/common/iobserver.h" name="include/common/iobserver.h">
+<area shape="rect" id="Node000001" title="Заголовочный файл, содержащий интерфейс IObserver для осуществления связи между классами MVC,..." alt="" coords="10,5,194,31"/>
+<area shape="rect" id="Node000002" href="$observable_8h.html" title="Заголовочный файл, содержащий интерфейс IObservable и абстрактный класс AObservable служащие для обес..." alt="" coords="5,79,199,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,46,105,79,99,79,99,46"/>
+<area shape="rect" id="Node000003" href="$model_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorModel, как одна из составляющих паттерна MVC." alt="" coords="32,153,172,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,119,105,152,99,152,99,119"/>
+<area shape="rect" id="Node000004" href="$controller_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorController, как одна из составляющих паттерна ..." alt="" coords="23,226,181,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,193,105,226,99,226,99,193"/>
+<area shape="rect" id="Node000005" href="$view_8h.html" title="Заголовочный файл, содержащий декларацию класса CEditorView, как одна из составляющих паттерна MVC." alt="" coords="36,300,168,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,267,105,300,99,300,99,267"/>
+</map>

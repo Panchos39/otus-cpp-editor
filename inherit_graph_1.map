@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classotus__editor_1_1_i_canvas.html" title="Интерфейс для объектов canvas." alt="" coords="5,31,145,56"/>
+<area shape="rect" id="Node000001" href="$classotus__editor_1_1_c_graph_canvas.html" title="Класс для графического отображения примитивов (заглушка). Унаследован от интерфейса ICanvas." alt="" coords="197,5,377,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="159,31,196,26,197,32,159,36"/>
+<area shape="rect" id="Node000002" href="$classotus__editor_1_1_c_pseudo_canvas.html" title="Класс для консольного отображения примитивов (заглушка). Унаследован от интерфейса ICanvas." alt="" coords="193,55,381,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="160,50,192,54,192,59,159,56"/>
+</map>

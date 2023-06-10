@@ -1,0 +1,5 @@
+<map id="otus_editor::APrimitive" name="otus_editor::APrimitive">
+<area shape="rect" id="Node000001" title="Абстрактный класс для отображения геометрических примитивов в документе Унаследован от интерфейса IPr..." alt="" coords="5,79,157,105"/>
+<area shape="rect" id="Node000002" href="$classotus__editor_1_1_i_primitive.html" title="Интерфейс для геометрических объектов в документе" alt="" coords="8,5,154,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,46,84,79,78,79,78,46"/>
+</map>

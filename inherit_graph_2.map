@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classotus__editor_1_1_i_observable.html" title="интерфейс для наблюдаемых объектов, оповещающих все наблюдателей об обновлении" alt="" coords="5,5,167,31"/>
+<area shape="rect" id="Node000001" href="$classotus__editor_1_1_a_observable.html" title="абстрактный класс для наблюдаемых объектов, оповещающих все наблюдателей об обновлении" alt="" coords="215,5,381,31"/>
+<area shape="poly" id="edge3_Node000000_Node000001" title=" " alt="" coords="181,16,214,16,214,21,181,21"/>
+<area shape="rect" id="Node000002" href="$classotus__editor_1_1_c_editor_model.html" title="Класс для обеспечения бизнес логики редактора. Унаследован от AObservable, значит является наблюдаемы..." alt="" coords="429,5,597,31"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="396,16,428,16,428,21,396,21"/>
+</map>
