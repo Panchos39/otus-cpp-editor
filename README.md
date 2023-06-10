@@ -1,5 +1,5 @@
 # otus-cpp-editor
-Otus-cpp professional IT course. Simple text editor MVC
+Otus-cpp professional course. Simple text editor MVC
 ## Задание
 Спроектировать простейший графический векторный редактор. Подготовить макеты классов,
 отражающих структуру будущего проекта.
